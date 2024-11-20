@@ -27,14 +27,14 @@
 <img width="50px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" /> &nbsp;&nbsp;
 <img width="50px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />&nbsp;&nbsp;
 <img width="50px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />&nbsp;&nbsp;
+<img width="50px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" /> &nbsp;&nbsp;
+<img width="50px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /> &nbsp;&nbsp;
 </kbd>&nbsp;&nbsp;
 <kbd>
 <kbd>Libraries</kbd>
 <br>
 <br>&nbsp;&nbsp;
-<img width="50px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" /> &nbsp;&nbsp;
 <img width="50px" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" /> &nbsp;&nbsp;
-<img width="50px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /> &nbsp;&nbsp;
 </kbd>&nbsp;&nbsp;
 <br><br>
 <kbd>
