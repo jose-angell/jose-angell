@@ -9,6 +9,7 @@
 
 
 <br><br>
+## Technologies
 <kbd>
 <kbd>Programming Languages</kbd>
 <br>
@@ -55,7 +56,7 @@
 <img width="30px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" /> &nbsp;
 <img width="30px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />&nbsp;
 <img width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> &nbsp;
-</kbd>&nbsp;&nbsp;
+</kbd>
 
 <br><br>
 <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
