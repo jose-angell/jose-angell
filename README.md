@@ -12,49 +12,49 @@
 <kbd>
 <kbd>Programming Languages</kbd>
 <br>
-<br>&nbsp;&nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> &nbsp;&nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;&nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> &nbsp;&nbsp;
-<img width="50px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /> &nbsp;&nbsp;
-<img width="50px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> &nbsp;&nbsp;
-<img width="50px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" /> &nbsp;&nbsp;
+<br>&nbsp;
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> &nbsp;
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> &nbsp;
+<img width="30px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /> &nbsp;
+<img width="30px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> &nbsp;
+<img width="30px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" /> &nbsp;
 </kbd>&nbsp;&nbsp;
 <kbd>
 <kbd>Frameworks</kbd>
 <br>
-<br>&nbsp;&nbsp;
-<img width="50px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" /> &nbsp;&nbsp;
-<img width="50px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />&nbsp;&nbsp;
-<img width="50px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />&nbsp;&nbsp;
-<img width="50px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" /> &nbsp;&nbsp;
-<img width="50px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /> &nbsp;&nbsp;
+<br>&nbsp;
+<img width="30px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" /> &nbsp;
+<img width="30px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />&nbsp;
+<img width="30px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />&nbsp;
+<img width="30px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" /> &nbsp;
+<img width="30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /> &nbsp;
 </kbd>&nbsp;&nbsp;
 <kbd>
 <kbd>Libraries</kbd>
 <br>
-<br>&nbsp;&nbsp;
-<img width="50px" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" /> &nbsp;&nbsp;
+<br>&nbsp;
+<img width="30px" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" /> &nbsp;
 </kbd>&nbsp;&nbsp;
 <br><br>
 <kbd>
 <kbd>Database</kbd>
 <br>
-<br>&nbsp;&nbsp;
-<img width="50px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" /> &nbsp;&nbsp;
-<img width="50px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" /> &nbsp;&nbsp;
-<img width="50px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" /> &nbsp;&nbsp;
+<br>&nbsp;
+<img width="30px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" /> &nbsp;
+<img width="30px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" /> &nbsp;
+<img width="30px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" /> &nbsp;
 </kbd>&nbsp;&nbsp;
 <kbd>
 <kbd>Tools</kbd>
 <br>
-<br> &nbsp;&nbsp;
-<img width="50px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" /> &nbsp;&nbsp;
-<img width="50px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> &nbsp;&nbsp;
-<img width="50px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" /> &nbsp;&nbsp;
-<img width="50px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" /> &nbsp;&nbsp;
-<img width="50px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />&nbsp;&nbsp; 
-<img width="50px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> &nbsp;&nbsp;
+<br> &nbsp;
+<img width="30px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" /> &nbsp;
+<img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> &nbsp;
+<img width="30px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" /> &nbsp;
+<img width="30px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" /> &nbsp;
+<img width="30px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />&nbsp;
+<img width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> &nbsp;
 </kbd>&nbsp;&nbsp;
 
 <br><br>
