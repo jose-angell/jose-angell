@@ -36,7 +36,6 @@
 <br>&nbsp;
 <img width="30px" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" /> &nbsp;
 </kbd>&nbsp;&nbsp;
-<br><br>
 <kbd>
 <kbd>Database</kbd>
 <br>
@@ -45,6 +44,7 @@
 <img width="30px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" /> &nbsp;
 <img width="30px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" /> &nbsp;
 </kbd>&nbsp;&nbsp;
+<br><br>
 <kbd>
 <kbd>Tools</kbd>
 <br>
