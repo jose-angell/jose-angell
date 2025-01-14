@@ -3,7 +3,7 @@
 </div>
 
 ## About me
-- I'm a Web Develope .NET
+- Mechatronics Engineer with experience in the area of ​​software development, I have participated in various projects using the C# programming language among other technologies. I consider myself a self-taught, responsible and committed person.
 
 ## Main Projects
 
@@ -29,7 +29,6 @@
 <img width="30px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />&nbsp;
 <img width="30px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />&nbsp;
 <img width="30px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" /> &nbsp;
-<img width="30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /> &nbsp;
 </kbd>&nbsp;&nbsp;
 <kbd>
 <kbd>Libraries</kbd>
