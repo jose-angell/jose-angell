@@ -67,7 +67,7 @@
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=jose-angell&theme=highcontrast&show_icons=true&count_private=true" />
 </a>&nbsp;
 <a href="https://github.com/jose-angell">
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-angell&theme=highcontrast&layout=compact&langs_count=8&card_width=320" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-angell&theme=highcontrast&layout=compact&card_width=320" />
 </a>
 <br><br>  
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jose-angell&theme=highcontrast&border_radius=5.6&mode=weekly&card_width=550&card_height=200" alt="GitHub Streak" /></a>
@@ -75,4 +75,3 @@
 </td>
 </tr>
 </table>
-
