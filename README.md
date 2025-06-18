@@ -6,9 +6,8 @@
 - Mechatronics Engineer with experience in the area of ​​software development, I have participated in various projects using the C# programming language among other technologies. I consider myself a self-taught, responsible and committed person.
 
 ## Main Projects
- - **Aplicacion de recursos para eventos**
-     Apliciacion enfocada en la reserva o alquiler de elementos utilizados en eventos. Utiliza React para el fron-end y .net para el back-end, la base de datos es PostgressSQL
-     ('https://jose-angell.github.io/EventReservationAppDocs/') Documentacion 
+ - **Aplicacion de recursos para eventos:** Apliciacion enfocada en la reserva o alquiler de elementos utilizados en eventos. Utiliza React para el fron-end y .net para el back-end, la base de datos es PostgressSQL
+      [Documentacion](https://jose-angell.github.io/EventReservationAppDocs/)
 <br><br>
 ## Technologies
 <kbd>
