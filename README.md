@@ -1,6 +1,9 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN2NWp3MXQ3aHNtNG9rOHd2ZTgxbzFkM2l5NHh2dmZnMnd0dXI5MCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="200"/>
 <h1 align="center">Hello, I'm Jose Angel 👋</h1>
 </div>
+
+![Header](./your-header-image-name.png)
 
 ## About me
 - Mechatronics Engineer with experience in the area of ​​software development, I have participated in various projects using the C# programming language among other technologies. I consider myself a self-taught, responsible and committed person.
@@ -17,7 +20,9 @@
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> &nbsp;
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> &nbsp;
-<img width="30px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /> &nbsp;
+<br>
+<br>&nbsp;
+ <img width="30px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /> &nbsp;
 <img width="30px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> &nbsp;
 <img width="30px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" /> &nbsp;
 </kbd>&nbsp;&nbsp;
@@ -27,6 +32,8 @@
 <br>&nbsp;
 <img width="30px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" /> &nbsp;
 <img width="30px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />&nbsp;
+ <br>
+<br>&nbsp;
 <img width="30px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />&nbsp;
 <img width="30px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" /> &nbsp;
 </kbd>&nbsp;&nbsp;
@@ -44,7 +51,6 @@
 <img width="30px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" /> &nbsp;
 <img width="30px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" /> &nbsp;
 </kbd>&nbsp;&nbsp;
-<br><br>
 <kbd>
 <kbd>Tools</kbd>
 <br>
@@ -52,6 +58,8 @@
 <img width="30px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" /> &nbsp;
 <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> &nbsp;
 <img width="30px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" /> &nbsp;
+ <br>
+<br>&nbsp;
 <img width="30px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" /> &nbsp;
 <img width="30px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />&nbsp;
 <img width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> &nbsp;
