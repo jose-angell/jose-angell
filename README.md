@@ -1,9 +1,9 @@
+![Header](./images/github-header-image-left.png)
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN2NWp3MXQ3aHNtNG9rOHd2ZTgxbzFkM2l5NHh2dmZnMnd0dXI5MCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="200"/>
 <h1 align="center">Hello, I'm Jose Angel 👋</h1>
 </div>
 
-![Header](./your-header-image-name.png)
 
 ## About me
 - Mechatronics Engineer with experience in the area of ​​software development, I have participated in various projects using the C# programming language among other technologies. I consider myself a self-taught, responsible and committed person.
