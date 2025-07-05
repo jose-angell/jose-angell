@@ -1,3 +1,17 @@
+<style>
+    .card {
+      display: flex;
+      gap:25px;
+      border: 2px solid #ffff
+    }
+    .card-image {
+       width=300px
+    }
+    .card-img img {
+      width: auto;
+    }
+</style>
+
 ![Header](./images/github-header-image-left.png)
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN2NWp3MXQ3aHNtNG9rOHd2ZTgxbzFkM2l5NHh2dmZnMnd0dXI5MCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="200"/>
@@ -8,8 +22,25 @@
 - Mechatronics Engineer with experience in the area of ​​software development, I have participated in various projects using the C# programming language among other technologies. I consider myself a self-taught, responsible and committed person.
 
 ## Main Projects
- - **Aplicacion de recursos para eventos:** Apliciacion enfocada en la reserva o alquiler de elementos utilizados en eventos. Utiliza React para el fron-end y .net para el back-end, la base de datos es PostgressSQL
+ 
+ <div class="card">
+  <div class="card-image">
+    <img  src="./images/imagen-proyecto-bookIt.png" alt="imagen del proyecto"/>
+  </div>
+  <div class="card-info">
+    <div class="card-title"><h3>Book It</h3></div>
+    <div class="card-body">
+      <p> Apliciacion enfocada en la reserva o alquiler de elementos utilizados en eventos. Utiliza React para el fron-end y .net para el back-end, la base de datos es PostgressSQL</p>
+    </div>
+    <div class="card-footer">
       [Documentacion](https://jose-angell.github.io/EventReservationAppDocs/)
+    </div>
+  </div>
+</div>
+
+
+
+
 <br><br>
 ## Technologies
 <kbd>
