@@ -5,7 +5,8 @@
 
 
 ## About me
-- Mechatronics Engineer with experience in the area of ​​software development, I have participated in various projects using the C# programming language among other technologies. I consider myself a self-taught, responsible and committed person.
+- Ingeniero Mecatrónico con experiencia en desarrollo de software, especializado en tecnologías .NET y JavaScript. He participado en diversos proyectos empresariales, desarrollando soluciones escalables y eficientes. Me considero una persona autodidacta, responsable y comprometida con la calidad del código y la optimización de procesos.
+
 
 ## Main Projects
 
@@ -71,12 +72,12 @@
 <br><br>
 <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 <table align="center" width="100%">
-<tr  >
+<tr>
 <td width="100%" align="center">
 <br>
 <a href="https://github.com/jose-angell">
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=jose-angell&theme=highcontrast&show_icons=true&count_private=true" />
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://github.com/jose-angell">
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-angell&theme=highcontrast&layout=compact&card_width=320" />
 </a>
