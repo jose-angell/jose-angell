@@ -1,4 +1,4 @@
-![Header](./images/github-header-image-left.png)
+![Header](./images/github-header-image-3.png)
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN2NWp3MXQ3aHNtNG9rOHd2ZTgxbzFkM2l5NHh2dmZnMnd0dXI5MCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="200"/>
 </div>
