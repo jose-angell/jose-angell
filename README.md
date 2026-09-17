@@ -1,93 +1,162 @@
 ![Header](./images/github-header-image-3.png)
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN2NWp3MXQ3aHNtNG9rOHd2ZTgxbzFkM2l5NHh2dmZnMnd0dXI5MCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="200"/>
-</div>
 
+<h1 align="center">José Ángel Gallardo Córdova</h1>
 
-## About me
-- Ingeniero Mecatrónico con experiencia en desarrollo de software, especializado en tecnologías .NET y JavaScript. He participado en diversos proyectos empresariales, desarrollando soluciones escalables y eficientes. Me considero una persona autodidacta, responsable y comprometida con la calidad del código y la optimización de procesos.
+<p align="center">
+  <strong>.NET Backend Developer</strong><br/>
+  C# · ASP.NET Core · REST APIs · SQL Server · PostgreSQL
+</p>
 
+<p align="center">
+  <a href="https://jose-angell.github.io/Portfolio-joseAngel/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/joseangelgallardocordova">LinkedIn</a>
+</p>
 
-## Main Projects
+---
 
-| Proyecto: **WorkshopAdmin** | Sistema de Gestión de Taller y Servicios |
-|----------------------|-------------|
-|<img src="./images/workshopAdmin.png" alt="Imagen" width="1500"/>|**Esta aplicación permite a los usuarios reservar mobiliario, equipo de iluminación y otros recursos necesarios para realizar toda clase de eventos de forma rápida y eficiente, optimizando la gestión de disponibilidad para los administradores. Está dirigida a clientes que necesiten un proveedor integral para sus eventos y permite a los organizadores optimizar recursos y mejorar la experiencia del cliente final. Desarrollada con React, .NET y PostgreSQL, con autenticación JWT y despliegue en Railway. Mi aporte incluye el diseño de la base de datos, la API REST, la lógica de reservas y el frontend responsivo. Proyecto funcional con versión de prueba disponible.** <br>  [🚀 Ver Demo](#)  [📄 Ver Documentación](https://github.com/jose-angell/WorkshopAdmin) <br>  <br> ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) |
+## About Me
 
-| Proyecto: **Book It** | App de Reservas Online |
-|----------------------|-------------|
-|<img src="./images/layoutBookit.png" alt="Imagen" width="1500"/>|Esta aplicación permite a los usuarios reservar mobiliario, equipo de iluminación y otros recursos necesarios para realizar toda clase de eventos de forma rápida y eficiente, optimizando la gestión de disponibilidad para los administradores. Está dirigida a clientes que necesiten un proveedor integral para sus eventos y permite a los organizadores optimizar recursos y mejorar la experiencia del cliente final. Desarrollada con React, .NET y PostgreSQL, con autenticación JWT y despliegue en Railway. Mi aporte incluye el diseño de la base de datos, la API REST, la lógica de reservas y el frontend responsivo. Proyecto funcional con versión de prueba disponible. <br>  [🚀 Ver Demo](#)  [📄 Ver Documentación](https://jose-angell.github.io/EventResourceReservationAppDocs/) <br>  <br> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) |
+Soy desarrollador de software con más de **4 años de experiencia** participando en el desarrollo y mantenimiento de soluciones empresariales.
 
+Actualmente me especializo en **backend con .NET y C#**, trabajando principalmente con APIs, bases de datos, integraciones entre sistemas, automatización y procesamiento de datos.
 
-<br><br>
-## Technologies
-<kbd>
-<kbd>Programming Languages</kbd>
-<br>
-<br>&nbsp;
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> &nbsp;
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> &nbsp;
-<br>
-<br>&nbsp;
- <img width="30px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /> &nbsp;
-<img width="30px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> &nbsp;
-<img width="30px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" /> &nbsp;
-</kbd>&nbsp;&nbsp;
-<kbd>
-<kbd>Frameworks</kbd>
-<br>
-<br>&nbsp;
-<img width="30px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" /> &nbsp;
-<img width="30px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />&nbsp;
- <br>
-<br>&nbsp;
-<img width="30px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />&nbsp;
-<img width="30px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" /> &nbsp;
-</kbd>&nbsp;&nbsp;
-<kbd>
-<kbd>Libraries</kbd>
-<br>
-<br>&nbsp;
-<img width="30px" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" /> &nbsp;
-</kbd>&nbsp;&nbsp;
-<kbd>
-<kbd>Database</kbd>
-<br>
-<br>&nbsp;
-<img width="30px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" /> &nbsp;
-<img width="30px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" /> &nbsp;
-<img width="30px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" /> &nbsp;
-</kbd>&nbsp;&nbsp;
-<kbd>
-<kbd>Tools</kbd>
-<br>
-<br> &nbsp;
-<img width="30px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" /> &nbsp;
-<img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> &nbsp;
-<img width="30px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" /> &nbsp;
- <br>
-<br>&nbsp;
-<img width="30px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" /> &nbsp;
-<img width="30px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />&nbsp;
-<img width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> &nbsp;
-</kbd>
+A lo largo de mi experiencia profesional he trabajado con sistemas empresariales, integraciones con SAP, procesamiento de archivos Excel/XML, Web Services, SQL Server y automatización de procesos.
 
-<br><br>
-<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
-<table align="center" width="100%">
-<tr>
-<td width="100%" align="center">
-<br>
-<a href="https://github.com/jose-angell">
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=jose-angell&theme=highcontrast&show_icons=true&count_private=true" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/jose-angell">
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-angell&theme=highcontrast&layout=compact&card_width=320" />
-</a>
-<br><br>  
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jose-angell&theme=highcontrast&border_radius=5.6&mode=weekly&card_width=550&card_height=200" alt="GitHub Streak" /></a>
-<br>
-</td>
-</tr>
-</table>
+Mi objetivo actual es continuar evolucionando hacia **Backend Engineering**, profundizando en arquitectura de software, testing, Docker, observabilidad, CI/CD y tecnologías cloud.
+
+También cuento con experiencia frontend con **Angular, React, Blazor y JavaScript/TypeScript**, lo que me permite comprender una solución de extremo a extremo cuando el proyecto lo requiere.
+
+---
+
+## Featured Projects
+
+### Event Resource Reservation App
+
+Backend de una plataforma para la **reserva de recursos para eventos**, desarrollado con .NET 8.
+
+El sistema permite administrar recursos y reservas, consultar disponibilidad por rango de fechas y aplicar reglas de negocio relacionadas con la disponibilidad de inventario.
+
+**Backend highlights**
+
+- REST APIs with ASP.NET Core
+- JWT Authentication & ASP.NET Core Identity
+- PostgreSQL + Entity Framework Core
+- Resource availability rules by date range
+- Structured logging with Serilog
+- Docker / Docker Compose
+- Unit testing with xUnit, Moq and FluentAssertions
+
+<p>
+  <a href="https://github.com/jose-angell/EventResourceReservationAppBackend">
+    <strong>Source Code</strong>
+  </a>
+  ·
+  <a href="https://jose-angell.github.io/EventResourceReservationAppDocs/">
+    <strong>Documentation</strong>
+  </a>
+</p>
+
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+---
+
+### WorkshopAdmin
+
+Sistema full stack para la **gestión de talleres técnicos**, desarrollado con .NET 10 y Blazor WebAssembly.
+
+Permite administrar clientes, equipos, órdenes de servicio e inventario, incorporando reglas de transición de estados, control de stock, autenticación JWT y persistencia con PostgreSQL.
+
+**Key features**
+
+- Service order lifecycle management
+- Customer and equipment management
+- Inventory and stock validation
+- JWT authentication
+- PostgreSQL + Entity Framework Core
+- Modular layered architecture
+- Blazor WebAssembly frontend
+
+<p>
+  <a href="https://github.com/jose-angell/WorkshopAdmin">
+    <strong>Source Code</strong>
+  </a>
+</p>
+
+![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+---
+
+## Technical Stack
+
+### Backend
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+`REST APIs` · `Entity Framework Core` · `Dependency Injection`
+
+### Data
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Engineering
+
+`Clean Architecture` · `SOLID` · `Testing` · `xUnit` · `Moq`
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Frontend Experience
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+
+---
+
+## Current Focus
+
+Actualmente estoy profundizando en:
+
+**Backend Engineering · Software Architecture · Automated Testing · Docker · CI/CD · Cloud**
+
+Mi objetivo es construir backend systems mantenibles y bien estructurados, tomando decisiones arquitectónicas basadas en las necesidades reales del problema.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=jose-angell&show_icons=true"
+    alt="José Ángel GitHub stats"
+  />
+</p>
+
+---
+
+<p align="center">
+  <strong>Open to .NET Backend Development opportunities</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joseangelgallardocordova">LinkedIn</a> ·
+  <a href="https://jose-angell.github.io/Portfolio-joseAngel/">Portfolio</a> ·
+  <a href="mailto:gallardocordovajoseangel@gmail.com">Email</a>
+</p>
