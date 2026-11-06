@@ -30,6 +30,41 @@ También cuento con experiencia frontend con **Angular, React, Blazor y JavaScri
 
 ## Featured Projects
 
+### ProcureFlow
+
+Sistema full stack para la **gestión de solicitudes internas de compra y flujos de aprobación**, desarrollado con .NET 10, ASP.NET Core, React y TypeScript.
+
+Permite a los usuarios crear solicitudes, administrar partidas y enviarlas a aprobación, aplicando reglas de negocio, transiciones de estado y autorización contextual por roles y departamentos.
+
+El backend utiliza **Clean Architecture** y modelado de dominio para mantener las reglas de negocio independientes de la infraestructura.
+
+**Key features**
+
+- REST API con ASP.NET Core y .NET 10.
+- Clean Architecture: Domain, Application, Infrastructure y API.
+- Domain modeling con `PurchaseRequest` como Aggregate Root.
+- Workflow de solicitudes: Draft, Submitted, Approved, Rejected y Cancelled.
+- JWT authentication y autorización por roles, departamentos y propiedad de solicitudes.
+- PostgreSQL + Entity Framework Core.
+- Pruebas de dominio, casos de uso e integración HTTP con xUnit y WebApplicationFactory.
+- Frontend con React, TypeScript, Vite y shadcn/ui.
+- Desarrollo frontend asistido por IA mediante Spec-Driven Development y Claude Code.
+
+<p>
+  <a href="https://github.com/jose-angell/ProcureFlow">
+    <strong>Source Code</strong>
+  </a>
+</p>
+
+![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+---
+
 ### Event Resource Reservation App
 
 Backend de una plataforma para la **reserva de recursos para eventos**, desarrollado con .NET 8.
