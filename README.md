@@ -16,15 +16,19 @@
 
 ## About Me
 
-Soy desarrollador de software con más de **4 años de experiencia** participando en el desarrollo y mantenimiento de soluciones empresariales.
+## About Me
 
-Actualmente me especializo en **backend con .NET y C#**, trabajando principalmente con APIs, bases de datos, integraciones entre sistemas, automatización y procesamiento de datos.
+Soy **Backend .NET Developer con 5 años de experiencia profesional** en el desarrollo, mantenimiento y modernización de aplicaciones empresariales, especializado en **C#, .NET, APIs REST, bases de datos e integración entre sistemas**.
 
-A lo largo de mi experiencia profesional he trabajado con sistemas empresariales, integraciones con SAP, procesamiento de archivos Excel/XML, Web Services, SQL Server y automatización de procesos.
+A lo largo de mi trayectoria he trabajado con **ASP.NET MVC, .NET Framework, SQL Server y PostgreSQL**, participando en proyectos de integración con **SAP, Web Services, procesamiento masivo de datos y automatización de procesos de negocio**. Mi experiencia abarca desde el análisis de requerimientos hasta la implementación y mantenimiento de soluciones en entornos productivos.
 
-Mi objetivo actual es continuar evolucionando hacia **Backend Engineering**, profundizando en arquitectura de software, testing, Docker, observabilidad, CI/CD y tecnologías cloud.
+Actualmente complemento mi experiencia profesional desarrollando proyectos con **ASP.NET Core (.NET 8/10), Entity Framework Core, JWT y testing automatizado con xUnit y Moq**, aplicando principios **SOLID, Dependency Injection y Clean Architecture** para construir aplicaciones mantenibles y bien estructuradas.
 
-También cuento con experiencia frontend con **Angular, React, Blazor y JavaScript/TypeScript**, lo que me permite comprender una solución de extremo a extremo cuando el proyecto lo requiere.
+También cuento con experiencia profesional en **Angular y JavaScript/TypeScript**, además de proyectos personales con **React y Blazor WebAssembly**. Esto me permite comprender el desarrollo de aplicaciones de extremo a extremo, manteniendo mi especialización principal en backend.
+
+Me interesa el **desarrollo asistido por IA**, utilizando herramientas como Claude Code con un enfoque de especificaciones, revisión de código y supervisión humana de las decisiones técnicas.
+
+Mi objetivo es continuar evolucionando como **Backend Engineer**, profundizando en **Software Architecture, System Design, Automated Testing, Docker, CI/CD y Cloud**, para diseñar soluciones escalables, confiables y alineadas con las necesidades reales del negocio.
 
 ---
 
