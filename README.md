@@ -16,8 +16,6 @@
 
 ## About Me
 
-## About Me
-
 Soy **Backend .NET Developer con 5 años de experiencia profesional** en el desarrollo, mantenimiento y modernización de aplicaciones empresariales, especializado en **C#, .NET, APIs REST, bases de datos e integración entre sistemas**.
 
 A lo largo de mi trayectoria he trabajado con **ASP.NET MVC, .NET Framework, SQL Server y PostgreSQL**, participando en proyectos de integración con **SAP, Web Services, procesamiento masivo de datos y automatización de procesos de negocio**. Mi experiencia abarca desde el análisis de requerimientos hasta la implementación y mantenimiento de soluciones en entornos productivos.
